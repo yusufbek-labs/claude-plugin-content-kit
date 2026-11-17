@@ -1,0 +1,11 @@
+{
+  "name": "content-kit",
+  "displayName": "Content Kit",
+  "version": "0.1.0",
+  "description": "Sample small-business content workflow: capture a brand voice, draft a blog post in it, review it, and repurpose it for LinkedIn, X and a newsletter.",
+  "author": {
+    "name": "Yusufbek A."
+  },
+  "license": "MIT",
+  "keywords": ["content", "writing", "blog", "social-media", "brand-voice"]
+}

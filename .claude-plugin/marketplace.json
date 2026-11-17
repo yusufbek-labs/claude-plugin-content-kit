@@ -1,0 +1,14 @@
+{
+  "name": "content-kit-samples",
+  "description": "Local marketplace for the Content Kit sample plugin",
+  "owner": {
+    "name": "Yusufbek A."
+  },
+  "plugins": [
+    {
+      "name": "content-kit",
+      "source": "./plugins/content-kit",
+      "description": "Sample small-business content workflow: brand voice, blog drafts, and repurposing."
+    }
+  ]
+}
